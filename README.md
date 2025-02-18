@@ -1,2 +1,2 @@
-# DATA_PROFESSIONAL_SURVEY
+# DATA PROFESSIONAL SURVEY
  A breakdown of Data Professionals
