@@ -6,7 +6,7 @@ The data contains information of data professionals such as their demographics, 
 **STEPS IN DATA CLEANING**  
 -Imported from Excel and loaded to the Power Query Editor.  
 -Column from browser to referral were deleted from the dataset table as they served no purpose for my analysis.  
--The column "which tittle best fits your current role" was cleaned by splitting the column by a delimeter and grouping all other responses as "others". The new colon is now deleted.  
+-The column "which tittle best fits your current role", "which country do you live in" and "what industry do you work im" was cleaned by splitting the column by a delimeter and grouping all other responses as "others". The new colon is now deleted.  
 -Also, the column "Favorite Programming Language" was splitted by column using the colon delimeter and grouping all other responses as "others". The new colon is now deleted.  
 -For the column with the current salary, the average for the ranges of the salary were taken after splitting the column for the current yearly salary. The new column was then renamed to "Average Salary".
 
