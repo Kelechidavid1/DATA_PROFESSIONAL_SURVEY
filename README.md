@@ -1,4 +1,4 @@
-# DATA PROFESSIONAL SURVEY
+![DATA PROFESSIONAL DASHBOARD](https://github.com/user-attachments/assets/075424dd-82af-42db-aa70-bae79d8549e5)# DATA PROFESSIONAL SURVEY
 This project is a survey of data professionals on Linkedin, X and other social media accounts and the aim of this project is to. Here is the link to the dataset used: [A Data breakdown of Data Professionals](https://github.com/AlexTheAnalyst/Power-BI)  
 
 ## DATA COLLECTION AND SKILLS USED  
@@ -14,4 +14,8 @@ The data contains information of data professionals such as their demographics, 
 
 -For the column with the current salary, the average for the ranges of the salary were taken after splitting the column for the current yearly salary. The new column was then renamed to "Average Salary".  
 
-**VISUALIZATION USING POWER BI**
+**VISUALIZATION USING POWER BI**  
+
+## DATA ANALYSIS AND FINDINGS  
+![Data Professional Survey Dashboard](![DATA PROFESSIONAL DASHBOARD](https://github.com/user-attachments/assets/b8215171-f66c-45ed-95d5-03eda2b0d82c)
+)
