@@ -33,10 +33,10 @@ Happiness with Salary: 4.27/10, suggesting that many data professionals are diss
 4. *Programming Language Preferences*
 Python is the most popular programming language, significantly ahead of others like R, C/C++, JavaScript, and Java.
 ## DISCUSSION AND INTERPRETATION
-Data science roles pay the highest, making them attractive career choices.  
-Salary dissatisfaction is notable, which may indicate a demand for better compensation in the industry.  
-Python dominates programming choices, reinforcing its importance for data professionals.  
-Work-life balance is moderately rated, but improvements may be needed.  
+-Data science roles pay the highest, making them attractive career choices.  
+-Salary dissatisfaction is notable, which may indicate a demand for better compensation in the industry.  
+-Python dominates programming choices, reinforcing its importance for data professionals.  
+-Work-life balance is moderately rated, but improvements may be needed.  
 
 ## CONCLUSIONS AND RECOMMENDATIONS  
 The dashboard reveals that data science roles offer the highest salaries, but salary dissatisfaction remains high among professionals. Python is the dominant programming language, and work-life balance satisfaction is moderate. While the majority of survey respondents are young professionals, there are potential gender pay disparities. These insights suggest a need for better compensation structures and work-life balance improvements in the data industry.
