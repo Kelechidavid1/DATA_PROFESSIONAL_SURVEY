@@ -17,5 +17,5 @@ The data contains information of data professionals such as their demographics, 
 **VISUALIZATION USING POWER BI**  
 
 ## DATA ANALYSIS AND FINDINGS  
-![Data Professional Survey Dashboard](![DATA PROFESSIONAL DASHBOARD](https://github.com/user-attachments/assets/b8215171-f66c-45ed-95d5-03eda2b0d82c)  
+![DATA PROFESSIONAL DASHBOARD](https://github.com/user-attachments/assets/b8215171-f66c-45ed-95d5-03eda2b0d82c)  
 
