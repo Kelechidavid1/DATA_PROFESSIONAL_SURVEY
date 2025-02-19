@@ -3,7 +3,8 @@ This project is a survey of data professionals on Linkedin, X and other social m
 
 ## DATA COLLECTION AND SKILLS USED  
 The data contains information of data professionals such as their demographics, roles, salary range in dollars, favourite programming language, as well as other questions that aims to quantify how happy they are with their current jobs. The survey was posted on Linkedin and X where 631 data professionals responded to. The data was loaded into Power Query and cleaned before it was exported to Power BI for onward visualization.    
-**STEPS IN DATA CLEANING**
-
-
+**STEPS IN DATA CLEANING**  
+-Imported from Excel and loaded to the Power Query Editor.  
+-Column from browser to referral were deleted from the dataset table as they served no purpose for my analysis.  
+-The column named "which tittle best fits your current role" was cleaned by splitting the column by a delimeter and grouping other responses to "others".
 
